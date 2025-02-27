@@ -13,7 +13,7 @@ The data is provided in the format like:
 ```json
 {
   "Post": "individual's post content",
-  "Reasoning Steps": "the step-by-step reasoning content",
+  "Reasoning": "the step-by-step cognition chain reasoning content",
   "Label": "the stress label for this post"
 }
 ```
