@@ -5,7 +5,7 @@ The data is provided in Alpaca format
 ```json
 {
   "instruction": "human instruction",
-  "input": "human input)",
+  "input": "human input",
   "output": "model response"
 }
 ```
