@@ -1,4 +1,4 @@
-## CogInstuct
+## CogInstuct <img src='https://github.com/XinWangcs/CogInstuct/blob/main/icon.jpg' width=5% align="center"/>
 Dataset for paper: CogIntruct: Cognition Chain Reasoning for Explainable Psychological Stress Detection on Social Media
 ### Overview
 CogInstruct is a novel instruction-tuning dataset designed to enhance the reasoning ability of psychological stress detection models by integrating psychological cognitive theory. 
