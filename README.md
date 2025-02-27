@@ -17,3 +17,5 @@ The data is provided in the format like:
   "Label": "the stress label for this post"
 }
 ```
+### Contact
+If you have any questions, feel free to contact [wangxin_6961@163.com;](mailto:wangxin_6961@163.com)
