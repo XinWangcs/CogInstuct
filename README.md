@@ -16,7 +16,7 @@ Each data sample is provided in the format like:
   "Label": "the stress label for this post"
 }
 ```
-For more details, please refer to [example](https://github.com/XinWangcs/CogInstuct/blob/main/data/example.json).
+For more details, please refer to [examples](https://github.com/XinWangcs/CogInstuct/blob/main/data/example.json) of CogInstruct.
 ### Get data
 The full dataset will be provided in this repository when paper is accepted.
 ### Contact
