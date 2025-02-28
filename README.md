@@ -17,6 +17,6 @@ The data is provided in the format like:
   "Label": "the stress label for this post"
 }
 ```
-The [example](https://github.com/XinWangcs/CogInstuct/blob/main/data/example.json) in CogInstruct is provided.
+For more details, please refer to [example](https://github.com/XinWangcs/CogInstuct/blob/main/data/example.json).
 ### Contact
 If you have any questions, feel free to contact [wangxin_6961@163.com;](mailto:wangxin_6961@163.com)
